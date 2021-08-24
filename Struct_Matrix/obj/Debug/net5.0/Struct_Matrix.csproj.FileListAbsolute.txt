@@ -1,0 +1,16 @@
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\bin\Debug\net5.0\Struct_Matrix.exe
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\bin\Debug\net5.0\Struct_Matrix.deps.json
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\bin\Debug\net5.0\Struct_Matrix.runtimeconfig.json
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\bin\Debug\net5.0\Struct_Matrix.runtimeconfig.dev.json
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\bin\Debug\net5.0\Struct_Matrix.dll
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\bin\Debug\net5.0\ref\Struct_Matrix.dll
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\bin\Debug\net5.0\Struct_Matrix.pdb
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\obj\Debug\net5.0\Struct_Matrix.csproj.AssemblyReference.cache
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\obj\Debug\net5.0\Struct_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\obj\Debug\net5.0\Struct_Matrix.AssemblyInfoInputs.cache
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\obj\Debug\net5.0\Struct_Matrix.AssemblyInfo.cs
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\obj\Debug\net5.0\Struct_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\obj\Debug\net5.0\Struct_Matrix.dll
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\obj\Debug\net5.0\ref\Struct_Matrix.dll
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\obj\Debug\net5.0\Struct_Matrix.pdb
+C:\Users\owner\OneDrive\Desktop\C# Internship\HomeWork_Projects\Struct_Matrix\Struct_Matrix\obj\Debug\net5.0\Struct_Matrix.genruntimeconfig.cache
